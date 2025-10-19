@@ -1,5 +1,5 @@
 # RTOS_QUEUE_TASK
-+ YÊU CẦU:
+## YÊU CẦU:
 Viết chương trình sử dụng FreeRTOS có tối thiểu 2 tác vụ:
 - Task 1: Thực hiện Blink LED theo tần số, độ rộng xung nhận được qua Queue.
 - Task 2: Định kỳ tạo ra tần số và độ rộng xung thay đổi và gửi sang Task 1 qua Queue.
